@@ -31,7 +31,7 @@ section#corona {
 /*------------------------------------------------------------------------------------------------------------------------------------*/
 section#medical {
   width: 100%;
-  height: 1900px;
+  height: 2300px;
   background: #1D2033;
   position: absolute;
   top: 1140px;
@@ -46,7 +46,7 @@ section#par {
   height: 200px;
   background: #FFFF;
   position: absolute;
-  top: 3150px;
+  top: 3500px;
   left: 0;
 }
 /*------------------------------------------------------------------------------------------------------------------------------------*/
@@ -57,7 +57,7 @@ footer {
     height: 90px;
     background: #1D2033;
     position: absolute;
-    top: 3520px;
+    top: 3820px;
     left: 0;
 }
 
