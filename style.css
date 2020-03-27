@@ -1,10 +1,22 @@
 /*------------------------------------------------------------------------------------------------------------------------------------*/
+header{
+
+  background:#2E2E48;
+  width: 100%
+  height:auto;
+  position: absolute;
+  margin-top: -8px;
+  left: 0px;
+  right: 0px
+}
+
+
 section#content {
-  color: white;
-    font-size: 5em;
+  color: #F077B2;
+    font-size: 2.5em;
   position: absolute;
   top: 250px;
-  left: 900px;
+  left: 800px;
 }
 
 img#slide {
@@ -32,7 +44,7 @@ section#corona {
 section#medical {
   width: 100%;
   height: 2300px;
-  background: #1D2033;
+  background:#2E2E48;
   position: absolute;
   top: 1140px;
   left: 0;
@@ -43,8 +55,8 @@ section#medical {
 /*------------------------------------------------------------------------------------------------------------------------------------*/
 section#par {
   width: 100%;
-  height: 200px;
-  background: #FFFF;
+  height: 400px;
+  background:white;
   position: absolute;
   top: 3500px;
   left: 0;
@@ -55,7 +67,7 @@ section#par {
 footer {
     width: 100%;
     height: 90px;
-    background: #1D2033;
+    background: #2E2E48;
     position: absolute;
     top: 3820px;
     left: 0;
@@ -63,9 +75,10 @@ footer {
 
 p#footer {
     text-align: center;
-    color: white;
+    color: #F077B2;
     margin-top: 40px;
     font-size: 1.3em;
+    text-decoration: underline;
 }
 /*------------------------------------------------------------------------------------------------------------------------------------*/
 
