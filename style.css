@@ -9,6 +9,27 @@ header{
   left: 0px;
   right: 0px
 }
+nav {
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+
+a {
+  color: #F077B2;
+  text-decoration: none;
+  font-weight: 2em;
+  font-size:1.5em;
+  margin-right: 20px;
+  margin-top: 0px;
+    padding: 30px;
+}
+
+a:hover {
+    color: white;
+    background: #09568d;  
+    padding: 30px;
+}
 
 
 section#content {
